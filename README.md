@@ -4,7 +4,7 @@ Technical calibration-status ledger for the Pecos River basin SWAT+/gwflow model
 panel is computed from finished model runs against real USGS daily flow and, in the Salinity section, real USGS
 Water Quality Portal grab samples — not illustrative or idealized data.
 
-**Live demo:** https://josephauresy.github.io/pre_calibration_pecos/
+**Live demo:** https://dauresy.github.io/pre_calibration_pecos/
 
 ## What it covers
 
